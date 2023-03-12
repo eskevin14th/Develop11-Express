@@ -5,7 +5,7 @@ This application allows users to save notes on a website.
 This application allows users to save and delete multiple notes.
 
 # Installation
-Clone repository and then run 'node i'.
+Run 'node i'.
 
 # Usage
 Run npm start.
