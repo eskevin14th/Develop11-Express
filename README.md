@@ -23,5 +23,5 @@ The Note Taker App uses the following technologies:
 # Credits
 The Note Taker App was created by [Kevin Barraza] as a project for for [Develop11-Express]
 
-License
+# License
 This project is licensed under the MIT License.
